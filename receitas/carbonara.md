@@ -18,7 +18,7 @@ _Rendimento: 1 porção_
 3. Aqueça uma frigideira em fogo médio e doure o bacon, mexendo de vez em quando. 
 4. Quando o macarrão estiver cozido reserve cerca de 1 xícara da água do cozimento e escorra o macarrão. 
 5. Coloque o macarrão na frigideira com o bacon quente, junte a mistura da gema com o queijo e misture bem.
-6. Coloque a frigideira em fogo baixo e adicione a água do cozimento reservada aos poucos, sempre mexendo para que a gema cozinhe lentamente e sem virar um omelete, formando um creme, e com cuidado para não cozinhar demais.
+6. Coloque a frigideira em fogo baixo e adicione a água do cozimento reservada aos poucos, sempre mexendo para que a gema cozinhe lentamente e com cuidado para não cozinhar demais, e até que vire um creme. (A quantidade utilizada da água reservada é até que a gema cozinhe chegando ao ponto de creme)
 7. Sirva a seguir, com pimenta-do-reino e queijo ralado a gosto.
 
 
