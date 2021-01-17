@@ -5,7 +5,7 @@ _Rendimento: 1 porção_
 **Ingredientes**
 
 - 140g de macarrão linguine (ou outro macarrão de sua preferência)
-- 40 g de queijo de ovelha ralado
+- 30 g de queijo de ovelha ralado
 - 1 gema
 - 1/4 xícara (chá) de bacon em cubos (aprox. 35g)
 - sal e pimenta-do-reino a gosto
