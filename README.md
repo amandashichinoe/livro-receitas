@@ -62,7 +62,7 @@ Para configurar e-mail e nome de usuários utilize os comandos:
 
 ou
 
-**git add * ** ou **git add .** - adiciona todos os arquivos
+**git add \* ** ou **git add .** - adiciona todos os arquivos
 
 **git commit -m** _"primeiro commit"_
 
